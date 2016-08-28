@@ -1,2 +1,3 @@
 # hello-world
-just started using github
+Just started using github
+Now trying to commit my first change
